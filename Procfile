@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 -C apache.conf public/
+echo "web: vendor/bin/heroku-php-apache2 public/" > Procfile
